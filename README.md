@@ -35,6 +35,12 @@ The Student Management System is a Java-based desktop application designed to ma
 
 ### JDBC
 * The application uses JDBC to connect to the MySQL database.
+## Tech Stack
+
+- Java  
+- MySQL  
+- JDBC  
+- Object-Oriented Programming (OOP)
 
 ## Installation
 --------------
